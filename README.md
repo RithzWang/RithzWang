@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=RitzRendev&show_icons=true&theme=radical" align="right" width="380">
-
+---
 
 [![Twitter: RitzBS_](https://img.shields.io/twitter/follow/RitzBS_?style=social&olor=BLACK&)](https://twitter.com/DEV_DIBSTER)
 [![GitHub: RitzRendev](https://img.shields.io/github/followers/RitzRendev?color=BLACK&style=social)](https://github.com/DIBSTERYT)
