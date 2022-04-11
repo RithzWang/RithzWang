@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=RitzRendev&show_icons=true&theme=radical" align="right" width="380">
-<h2> Hi, I'm DIBSTER! 👋</h2>
+<h2> Hi, I'm Ritz Rendell 🜲</h2>
 
 
 [![Twitter: RitzBS_](https://img.shields.io/twitter/follow/RitzBS_?style=social&olor=BLACK&)](https://twitter.com/DEV_DIBSTER)
