@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=RitzRendev&show_icons=true&theme=radical" align="right" width="380">
+<img src="https://github-readme-stats.vercel.app/api?username=RithzWang&show_icons=true&theme=radical" align="right" width="380">
 
 
 
