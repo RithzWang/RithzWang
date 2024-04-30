@@ -1,17 +1,3 @@
-<a target="_blank" href="https://getsharex.com">
-	<img align="left" title="ShareX" alt="ShareX" align="center" width="40px" src="https://getsharex.com/favicon.ico">
-</a>
-
-<a target="_blank" href="https://us.ovhcloud.com/">
-	<img align="left" title="OVH" alt="OVH" align="center" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ovh-3629559-3032342.png">
-</a>
-
-</details>
-
-<br>
-<br>
-<br>
-
 <!--- ### 💻 Projects: --->
 
 <p float="left">
