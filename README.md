@@ -13,7 +13,7 @@ const RITHZ = {
   pronouns: 'He/Him',
   birthday: 'March 15th 2007',
   code: 'JavaScript',
-  about: 'I play a lot of Brawl Stars and I like learning languages.',
+  about: 'I play a lot of Brawl Stars and I like learning european languages.',
   hobby: 'Brawl Stars, Badminton and Reading'
 }
 ```
