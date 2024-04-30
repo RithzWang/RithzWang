@@ -18,7 +18,8 @@ const RITHZ = {
 	<img src="https://github-readme-stats.vercel.app/api?username=RithzWang&show_icons=true&theme=tokyonight" height="150">
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RithzWang&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" align= "center">
-___
+
+---
 
 <br>
 <br>
