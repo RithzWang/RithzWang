@@ -1,4 +1,25 @@
-<img src="https://github-readme-stats.vercel.app/api?username=RithzWang&show_icons=true&theme=radical" align="right" width="380">
+<a target="_blank" href="https://getsharex.com">
+	<img align="left" title="ShareX" alt="ShareX" align="center" width="40px" src="https://getsharex.com/favicon.ico">
+</a>
+
+<a target="_blank" href="https://us.ovhcloud.com/">
+	<img align="left" title="OVH" alt="OVH" align="center" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ovh-3629559-3032342.png">
+</a>
+
+</details>
+
+<br>
+<br>
+<br>
+
+<!--- ### 💻 Projects: --->
+
+<p float="left">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-DIBSTER&langs_count=6&theme=tokyonight&layout=compact" height="150">
+	<img src="https://github-readme-stats.vercel.app/api?username=DEV-DIBSTER&show_icons=true&theme=tokyonight" height="150">
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEV-DIBSTER&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" align= "center">
+
 
 
 
