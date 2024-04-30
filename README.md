@@ -1,10 +1,10 @@
 <!--- ### 💻 Projects: --->
 
 <p float="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-DIBSTER&langs_count=6&theme=tokyonight&layout=compact" height="150">
-	<img src="https://github-readme-stats.vercel.app/api?username=DEV-DIBSTER&show_icons=true&theme=tokyonight" height="150">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithzWang&langs_count=6&theme=tokyonight&layout=compact" height="150">
+	<img src="https://github-readme-stats.vercel.app/api?username=RithzWang&show_icons=true&theme=tokyonight" height="150">
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEV-DIBSTER&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" align= "center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RithzWang&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" align= "center">
 
 
 
