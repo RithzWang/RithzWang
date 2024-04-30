@@ -21,7 +21,7 @@ const RITHZ = {
 
 ---
 
-<br>
+
 
 [![Twitter: RitzBS_](https://img.shields.io/twitter/follow/RitzBS_?style=social&olor=BLACK&)](https://twitter.com/DEV_DIBSTER)
 [![GitHub: RithzWang](https://img.shields.io/github/followers/RithzWang?color=BLACK&style=social)](https://github.com/DIBSTERYT)
