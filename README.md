@@ -9,12 +9,12 @@
 ### Some things About Me:
 
 ```js
-const RITZ = {
+const RITHZ = {
   pronouns: 'He/Him',
-  birthday: 'March 15th 2005',
+  birthday: 'March 15th 2007',
   code: 'JavaScript',
-  about: 'I play a lot of Brawl Stars and code Discord bots.',
-  hobby: 'Brawl Stars, Badminton, Football'
+  about: 'I play a lot of Brawl Stars and I like learning languages.',
+  hobby: 'Brawl Stars, Badminton and Reading'
 }
 ```
 ---
